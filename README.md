@@ -83,7 +83,7 @@ I am a passionate and dedicated full stack web developer with hands-on experienc
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimul330)](https://github.com/anuraghazra/github-readme-stats)
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=shimul330_icons=true&theme=radical)
 
 <p >
   <img src="https://api.vaunt.dev/v1/github/entities/shimul330/contributions?format=svg&private=true" alt="Vaunt Badge" width="600"/>
