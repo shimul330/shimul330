@@ -69,7 +69,6 @@ I am a passionate and dedicated full stack web developer with hands-on experienc
 </p>
 
 
-- 🔭 I’m currently working on this page.
  -🔭 Currently working on: Car Rental App  
 -🌱 Learning: React, Node.js, Firebase  
 -📫 Reach me at: shimuldevnath330@gmail.com  
