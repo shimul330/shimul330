@@ -1,4 +1,7 @@
 
+<p align="center">
+ <img src="github.gif" width="400"/>
+</p>
 <h1 align="center">Hi, I'm Shimul 👋</h1>
 <h4 align="center">I am a FullStack Devoloper✔</h4>
 
