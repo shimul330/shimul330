@@ -14,6 +14,7 @@ I am a passionate and dedicated full stack web developer with hands-on experienc
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black)
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 
 ### 🛠️ Technologies & Tools:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
