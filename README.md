@@ -6,6 +6,9 @@
 
 I am a passionate and dedicated full stack web developer with hands-on experience in HTML, CSS, JavaScript, and modern frameworks like React and Tailwind CSS. On the backend, I work confidently with Node.js, Express.js, and MongoDB. I also integrate Firebase for authentication and real-time features, with secure API handling using JWT. I enjoy building responsive, user-friendly web applications that solve real-world problems. I'm a quick learner, constantly improving my skills and staying updated with the latest technologies. I’m actively looking for opportunities where I can contribute to impactful projects and grow as a valuable member of a professional development team.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Shimul;MERN+Stack+Developer;I+Love+Coding)](https://git.io/typing-svg)
+
+
 ### 🛠️ Skills
 ![React](https://img.shields.io/badge/-React-blue)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
