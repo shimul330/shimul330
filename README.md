@@ -70,10 +70,10 @@ I am a passionate and dedicated full stack web developer with hands-on experienc
 
 
 - 🔭 I’m currently working on this page.
- 🔭 Currently working on: Car Rental App  
-🌱 Learning: React, Node.js, Firebase  
-📫 Reach me at: shimuldevnath330@gmail.com  
-🎥 Fun Fact: I create Chinese fact videos on YouTube
+ -🔭 Currently working on: Car Rental App  
+-🌱 Learning: React, Node.js, Firebase  
+-📫 Reach me at: shimuldevnath330@gmail.com  
+-🎥 Fun Fact: I create Chinese fact videos on YouTube
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shimul330)  
