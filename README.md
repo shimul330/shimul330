@@ -70,7 +70,7 @@ I am a passionate and dedicated full stack web developer with hands-on experienc
 
 
  -🔭 Currently working on: Car Rental App  
--🌱 Learning: React, Node.js, Firebase, mongodb App Devolopment
+-🌱 Learning: React, Node.js, Firebase, App Devolopment
 -📫 Reach me at: shimuldevnath330@gmail.com  
 -🎥 Fun Fact: I create Chinese fact videos on YouTube
 
