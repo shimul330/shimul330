@@ -12,11 +12,14 @@ I am a passionate and dedicated full stack web developer with hands-on experienc
 
 
 ### 🛠️ Skills
-![React](https://img.shields.io/badge/-React-blue)
-![Node.js](https://img.shields.io/badge/-Node.js-green)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black)
-![Firebase](https://img.shields.io/badge/-Firebase-yellow)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-8e44ad?logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-6c5ce7?logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-9b59b6?logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-7f8c8d?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-6c3483?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-5e60ce?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-e84393?logo=firebase&logoColor=white)
+
 
 ### 🛠️ Technologies & Tools:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
